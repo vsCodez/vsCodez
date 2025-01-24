@@ -31,7 +31,7 @@ Bienvenido a mi GitHub 👋
 
 👩‍💻 Actualmente estoy trabajando en Git , Html .
 
-🧠Actualmente estoy aprendiendo Python , Git , Github .
+🧠Actualmente estoy aprendiendo Python , Git .
 
 👯‍♀️ Busco colaborar en cualquier Dev .
 
@@ -64,7 +64,6 @@ Javascript, HTML, CSS...
 
 
 
-![Logo](https://i.pinimg.com/736x/e1/83/61/e183618abaa5c74a6dee73ffb53574c7.jpg)
 
 
 
