@@ -40,7 +40,7 @@ Bienvenido a mi GitHub 👋
 
 💬 Pregúntame sobre temas De Git .
 
-📫 Cómo contactarme Por aqui .
+📫 Cómo contactarme GitHub .
 
 😄 Pronombres vsCodez .
 
@@ -61,7 +61,7 @@ Bienvenido a mi GitHub 👋
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Git.
 
 
 
