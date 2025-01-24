@@ -26,7 +26,6 @@ Bienvenido a mi GitHub 👋
 ✨ ¡Gracias por visitar mi perfil! ✨
 
 
-¿Quieres que ajuste algo más o agregue enlaces personalizados? 😊
 ## Otras secciones comunes del perfil de Github
 
 
